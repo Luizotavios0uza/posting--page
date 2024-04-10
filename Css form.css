@@ -1,0 +1,19 @@
+div {
+  color: #FFFFFF;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+h2 {
+  color: #FF8B35; 
+   text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+body{
+  text-align: center;
+  background-color: #3E3E47;
+}
+textarea {
+  border-radius: 10px;
+}
+input {
+  border-radius: 10px;
+}
